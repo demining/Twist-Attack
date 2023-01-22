@@ -1,8 +1,26 @@
 
+# Twist Attack
+
+---
+
+
+---
+
+
+
+
+
 		
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="./Twist Attack example perform a series of ECC operations to get the value of Private Key to the Bitcoin Wallet - CRYPTO DEEP TECH_files/031-1024x576.png" alt="Twist Attack example №1 perform a series of ECC operations to get the value of Private Key to the Bitcoin Wallet" class="wp-image-1861" srcset="https://cryptodeeptech.ru/wp-content/uploads/2023/01/031-1024x576.png 1024w, https://cryptodeeptech.ru/wp-content/uploads/2023/01/031-300x169.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2023/01/031-768x432.png 768w, https://cryptodeeptech.ru/wp-content/uploads/2023/01/031.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
+---
 
+
+* Tutorial: https://youtu.be/S_ZUcM2cD8I
+* Tutorial: https://cryptodeeptech.ru/twist-attack
+
+
+---
 
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
